@@ -1,0 +1,28 @@
+.container{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+.form-check{
+    padding-left: 120px;
+}
+form{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.form-select .w-50{
+    margin-left: 100px;
+}
+.columna{
+    margin: 50px;
+}
+.swal-overlay {
+    background-color: rgba(43, 165, 137, 0.45);
+}
+.required{
+    color: red;
+}
+.w-100{
+    width: 93%!important;
+}
